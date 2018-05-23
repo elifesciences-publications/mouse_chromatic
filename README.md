@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Denman et al., "Mouse color and wavelength-specific luminance contrast sensitivity are non-uniform across visual space". eLife, 2018. http://dx.doi.org/10.7554/eLife.31209
+
+
 <div style="font-size:18pt;color:#000000"><strong>Jupyter notebook and associated code for:</strong></div>
 <br></br>
 <div style="font-size:14pt;color:#000000">Denman DJ, Siegle JS, Koch C, Reid RC, Blanche TJ</div>
